@@ -1,0 +1,3 @@
+# trainig_sql
+
+hogehogehogehogehoge
